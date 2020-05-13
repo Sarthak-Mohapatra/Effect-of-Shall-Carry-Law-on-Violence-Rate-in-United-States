@@ -40,6 +40,7 @@ Following table explains the variables in the dataset:
 - R-Studios
 - Microsoft Excel
 - Regression Modelling
+- Panel Data
 
 ## Status
 Project is: *finsished*
